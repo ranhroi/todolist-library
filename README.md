@@ -1,2 +1,1 @@
-# todolist-library
-Created with CodeSandbox
+# Todolist Library
